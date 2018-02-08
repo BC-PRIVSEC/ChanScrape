@@ -1,0 +1,49 @@
+Este es un software gratuito y no comprometido, liberado al
+dominio público.
+
+Cualquiera es libre de copiar, modificar, publicar, usar,
+compilar, vender o distribuir este software, ya sea en forma de
+código fuente o como compilado binario, para cualquier fin,
+comercial o no comercial, y por cualquier medio.
+
+En jurisdicciones que reconocen las leyes de propiedad
+intelectual, LOS AUTORES Y COLABORADORES DE BC-PRIVSEC y de este
+software dedicamos cualquier interés sobre los derechos de autor
+en estep software a favor del dominio público. Hacemos esta
+dedicación para el beneficio del público en general y en
+detrimento de nuestros herederos y sucesores. Tenemos la
+intención de que esta dedicación sea un acto abierto de renuncia
+a perpetuidad de todos los derechos presentes y futuros a este
+software bajo la ley de derechos de autor.
+
+EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN
+TIPO, EXPRESADA O TACITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS
+DE MERCANTIBILIDAD, APTITUD PARA UN PROPÓSITO PARTICULAR Y NO
+INFRACCIÓN DE DERECHOS. EN NINGÚN CASO LOS AUTORES SERÁN
+RESPONSABLES POR NINGUNA RECLAMACIÓN, DAÑOS U OTRA
+RESPONSABILIDAD, YA SEA EN UNA EJECUCIÓN DE CONTRATO, AGRAVIO O
+C:UALQUIER OTRO, DERIVADOS DE, FUERA DE O EN RELACIÓN CON EL
+SOFTWARE, SU US U OTROS TRATAMIENTOS DEL MISMO.:
+
+---
+
+Este software opera usando librerias que se encuentran bajo
+dstintas licencias. En particular hacemos uso critico de la
+libreria py8chan bajo los terminos de la siguiente licencia:
+
+
+    LICENCIA PUBLICA DE HACER LO QUE TE PEGUE LA CHINGADA GANA
+    Version 2, Diciembre 2004
+
+ Copyright (C) 2004 Sam Hocevar <sam@hocevar.net>
+
+ Todos tienen permitido copiar y distribuir copias fieles o
+ modificadas de el documento de esta licenciam, y cambiarlo esta
+ permitido mientras el nombre sea cambiado.
+
+
+    LICENCIA PUBLICA DE HACER LO QUE TE PEGUE LA CHINGADA GANA
+    TERMINOS Y CONDICIONES PARA COPIA, DISTRBUCION Y MODIFICACION
+
+  0. Solo haz LO QUE TE PEGUE LA CHINGADA GANA
+
